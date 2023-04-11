@@ -1,0 +1,62 @@
+18:13:05,249 AutoGPT INFO GPT3.5 Only Mode: : ENABLED
+18:13:05,291 AutoGPT INFO Welcome back! : Would you like me to return to being Entrepreneur-GPT?
+18:14:20,750 AutoGPT INFO GPT3.5 Only Mode: : ENABLED
+18:14:20,785 AutoGPT INFO Welcome back! : Would you like me to return to being Entrepreneur-GPT?
+18:14:50,62 AutoGPT INFO Welcome to Auto-GPT! : Enter the name of your AI and its role below. Entering nothing will load defaults.
+18:14:50,578 AutoGPT INFO Name your AI: : For example, 'Entrepreneur-GPT'
+18:15:15,175 AutoGPT INFO money earning here!: I am at your service.
+18:15:15,354 AutoGPT INFO Describe your AI's role: : For example, 'an AI designed to autonomously develop and run businesses with the sole goal of increasing your net worth.'
+18:16:25,295 AutoGPT INFO Enter up to 5 goals for your AI: : For example: 
+Increase net worth, Grow Twitter Account, Develop and manage multiple businesses autonomously'
+18:22:01,537 AutoGPT INFO Welcome back! : Would you like me to return to being money earning?
+18:22:20,920 AutoGPT INFO Speak Mode: : ENABLED
+18:22:20,958 AutoGPT INFO Welcome back! : Would you like me to return to being money earning?
+18:22:32,936 AutoGPT INFO Welcome to Auto-GPT! : Enter the name of your AI and its role below. Entering nothing will load defaults.
+18:22:33,298 AutoGPT INFO Name your AI: : For example, 'Entrepreneur-GPT'
+18:22:37,677 gtts.tts DEBUG text: Welcome to Auto-GPT! . Enter the name of your AI and its role below. Entering nothing will load defaults.
+18:22:37,677 gtts.tts DEBUG tld: com
+18:22:37,677 gtts.tts DEBUG lang: en
+18:22:37,678 gtts.tts DEBUG slow: False
+18:22:37,678 gtts.tts DEBUG lang_check: True
+18:22:37,678 gtts.tts DEBUG pre_processor_funcs: [<function tone_marks at 0x00000128ED47B820>, <function end_of_line at 0x00000128ED488280>, <function abbreviations at 0x00000128ED4883A0>, <function word_sub at 0x00000128ED488430>]
+18:22:37,678 gtts.tts DEBUG tokenizer_func: <bound method Tokenizer.run of re.compile('(?<=\\?).|(?<=!).|(?<=\uff1f).|(?<=\uff01).|(?<!\\.[a-z])\\. |(?<!\\.[a-z]), |(?<!\\d):|\xa1|\u3002|;|\\\n|…|\uff0c|\\(|\xbf|\u2025|\\[|\\]|—|\uff1a|\u060c|\u3001|\\)', re.IGNORECASE) from: [<function tone_marks at 0x00000128ED4885E0>, <function period_comma at 0x00000128ED488700>, <function colon at 0x00000128ED488790>, <function other_punctuation at 0x00000128ED488820>]>
+18:22:37,678 gtts.lang DEBUG langs: {'af': 'Afrikaans', 'ar': 'Arabic', 'bg': 'Bulgarian', 'bn': 'Bengali', 'bs': 'Bosnian', 'ca': 'Catalan', 'cs': 'Czech', 'da': 'Danish', 'de': 'German', 'el': 'Greek', 'en': 'English', 'es': 'Spanish', 'et': 'Estonian', 'fi': 'Finnish', 'fr': 'French', 'gu': 'Gujarati', 'hi': 'Hindi', 'hr': 'Croatian', 'hu': 'Hungarian', 'id': 'Indonesian', 'is': 'Icelandic', 'it': 'Italian', 'iw': 'Hebrew', 'ja': 'Japanese', 'jw': 'Javanese', 'km': 'Khmer', 'kn': 'Kannada', 'ko': 'Korean', 'la': 'Latin', 'lv': 'Latvian', 'ml': 'Malayalam', 'mr': 'Marathi', 'ms': 'Malay', 'my': 'Myanmar (Burmese)', 'ne': 'Nepali', 'nl': 'Dutch', 'no': 'Norwegian', 'pl': 'Polish', 'pt': 'Portuguese', 'ro': 'Romanian', 'ru': 'Russian', 'si': 'Sinhala', 'sk': 'Slovak', 'sq': 'Albanian', 'sr': 'Serbian', 'su': 'Sundanese', 'sv': 'Swedish', 'sw': 'Swahili', 'ta': 'Tamil', 'te': 'Telugu', 'th': 'Thai', 'tl': 'Filipino', 'tr': 'Turkish', 'uk': 'Ukrainian', 'ur': 'Urdu', 'vi': 'Vietnamese', 'zh-CN': 'Chinese (Simplified)', 'zh-TW': 'Chinese (Mandarin/Taiwan)', 'zh': 'Chinese (Mandarin)'}
+18:22:37,678 gtts.tts DEBUG pre-processing: <function tone_marks at 0x00000128ED47B820>
+18:22:37,679 gtts.tts DEBUG pre-processing: <function end_of_line at 0x00000128ED488280>
+18:22:37,679 gtts.tts DEBUG pre-processing: <function abbreviations at 0x00000128ED4883A0>
+18:22:37,680 gtts.tts DEBUG pre-processing: <function word_sub at 0x00000128ED488430>
+18:22:37,680 gtts.tts DEBUG tokenizing: <bound method Tokenizer.run of re.compile('(?<=\\?).|(?<=!).|(?<=\uff1f).|(?<=\uff01).|(?<!\\.[a-z])\\. |(?<!\\.[a-z]), |(?<!\\d):|\xa1|\u3002|;|\\\n|…|\uff0c|\\(|\xbf|\u2025|\\[|\\]|—|\uff1a|\u060c|\u3001|\\)', re.IGNORECASE) from: [<function tone_marks at 0x00000128ED4885E0>, <function period_comma at 0x00000128ED488700>, <function colon at 0x00000128ED488790>, <function other_punctuation at 0x00000128ED488820>]>
+18:22:37,680 gtts.tts DEBUG text_parts: ['Welcome to Auto-GPT!', 'Enter the name of your AI and its role below', 'Entering nothing will load defaults.']
+18:22:37,680 gtts.tts DEBUG text_parts: 3
+18:22:37,680 gtts.tts DEBUG data-0: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Welcome%20to%20Auto-GPT%21%5C%22%2C%5C%22en%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+18:22:37,681 gtts.tts DEBUG data-1: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Enter%20the%20name%20of%20your%20AI%20and%20its%20role%20below%5C%22%2C%5C%22en%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+18:22:37,681 gtts.tts DEBUG data-2: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Entering%20nothing%20will%20load%20defaults.%5C%22%2C%5C%22en%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+18:22:37,823 gtts.tts DEBUG headers-0: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '156'}
+18:22:37,823 gtts.tts DEBUG url-0: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+18:22:37,823 gtts.tts DEBUG status-0: 200
+18:22:37,824 gtts.tts DEBUG part-0 written to <_io.BufferedWriter name='speech.mp3'>
+18:22:37,824 gtts.tts DEBUG part-0 created
+18:22:37,971 gtts.tts DEBUG headers-1: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '192'}
+18:22:37,971 gtts.tts DEBUG url-1: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+18:22:37,971 gtts.tts DEBUG status-1: 200
+18:22:37,971 gtts.tts DEBUG part-1 written to <_io.BufferedWriter name='speech.mp3'>
+18:22:37,971 gtts.tts DEBUG part-1 created
+18:22:38,112 gtts.tts DEBUG headers-2: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '174'}
+18:22:38,112 gtts.tts DEBUG url-2: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+18:22:38,112 gtts.tts DEBUG status-2: 200
+18:22:38,112 gtts.tts DEBUG part-2 written to <_io.BufferedWriter name='speech.mp3'>
+18:22:38,112 gtts.tts DEBUG part-2 created
+18:22:38,112 gtts.tts DEBUG Saved to speech.mp3
+18:25:36,120 AutoGPT INFO n here!: I am at your service.
+18:25:36,245 AutoGPT INFO Describe your AI's role: : For example, 'an AI designed to autonomously develop and run businesses with the sole goal of increasing your net worth.'
+18:25:54,518 AutoGPT INFO Enter up to 5 goals for your AI: : For example: 
+Increase net worth, Grow Twitter Account, Develop and manage multiple businesses autonomously'
+18:33:31,164 AutoGPT INFO GPT3.5 Only Mode: : ENABLED
+18:33:31,210 AutoGPT INFO Welcome back! : Would you like me to return to being n?
+18:46:22,642 AutoGPT INFO GPT3.5 Only Mode: : ENABLED
+18:46:22,698 AutoGPT INFO Welcome back! : Would you like me to return to being n?
+18:57:19,739 AutoGPT INFO Welcome back! : Would you like me to return to being n?
+19:03:53,992 AutoGPT INFO Welcome back! : Would you like me to return to being n?
+19:33:26,596 AutoGPT INFO Welcome back! : Would you like me to return to being n?
+19:47:05,95 AutoGPT INFO Welcome back! : Would you like me to return to being n?
+19:56:41,821 AutoGPT INFO Welcome back! : Would you like me to return to being n?
